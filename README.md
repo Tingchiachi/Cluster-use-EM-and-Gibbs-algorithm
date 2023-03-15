@@ -41,3 +41,4 @@ $$p(\tau^{(t+1)}_j|\mu^{(t)},\tau^{(t)}_{(-j)},\alpha^{(t)},y^{(t)},x)\sim Gamma
 $$p(\alpha^{(t+1)}|\mu^{(t)},\tau^{(t)},\alpha^{(t)}_{(-j)},y^{(t)},x)\sim Dirichlet(a_1+n_1,a_2+n_2)$$
 
 Iterating 1000 times,the cluster figure is as following.
+![image](https://github.com/Tingchiachi/Cluster-use-EM-and-Gibbs-algorithm/blob/main/gibbs.jpeg)
