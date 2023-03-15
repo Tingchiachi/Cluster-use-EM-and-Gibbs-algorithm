@@ -23,7 +23,7 @@ updating $\theta^{(t)}$ to hope $Q(\theta|\theta^{(t)})$ converges.
 
 </div>
 
-If we set convergence condition as $|\theta^{(t)}-\theta^{(t-1)}|<10^{-3}$.  
+If we set convergence condition as $|\theta^{(t)}-\theta^{(t-1)}|<\epsilon=10^{-3}$.  
 We can find when $t=9$, $Q(\theta|\theta^{(t)})$ converges.  
 So,the cluster figure is as following.  
 ![image](https://github.com/Tingchiachi/Cluster-use-EM-and-Gibbs-algorithm/blob/main/em.jpeg)
