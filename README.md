@@ -2,7 +2,8 @@
 EM(Expectation-maximization) and Gibbs algorithm
 
 ## Data
-
+[Old Faithful Geyser Data](https://search.r-project.org/CRAN/refmans/tclust/html/geyser2.html)  
+A bivariate data set obtained from the Old Faithful Geyser, containing the eruption length and the length of the previous eruption for 271 eruptions of this geyser in minutes.
 ## EM(Expectation-maximization) Algorithm
 We want to maximize a likelihood function.  
 **First,repeating E-step.**  
