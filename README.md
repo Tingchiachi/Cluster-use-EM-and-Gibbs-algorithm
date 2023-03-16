@@ -1,4 +1,4 @@
-# Cluster-use-EM-and-Gibbs-algorithm
+# Clusting-use-EM-and-Gibbs-algorithm
 EM(Expectation-maximization) and Gibbs algorithm
 
 ## Data
